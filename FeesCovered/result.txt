@@ -1,0 +1,29 @@
+activity form name,transaction fees paid
+Aliento : $52.62
+Amond : $64.31
+Brown : $60.13
+Brown  : $0.5
+Crisp : $27.57
+Graduates Give Back : $1.0
+Greenhall : $0.5
+Harpe : $28.08
+Hawkins : $19.59
+Hicks : $77.08
+Hill : $21.58
+Kirkman : $3.69
+Ledford : $49.81
+Ledford  : $0.5
+Miller : $49.28
+Orr : $26.45
+Orr  : $16.57
+Regional Giving : $0.8
+Thornton : $17.34
+Trail : $33.28
+Tucker : $104.83
+Tucker  : $0.95
+Volious : $44.85
+Ward : $45.26
+Watkins : $30.42
+Williams : $49.82
+Wynn : $39.09
+Total : $865.9

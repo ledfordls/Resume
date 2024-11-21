@@ -1,0 +1,21 @@
+How to use ForFeesCovered.py and GuiFrame.py
+
+For ForFeesCovered.py
+- This file hold all the code that GuiFrame pulls from.
+
+
+For GuiFrame.py
+- To run this program all you need to do is move the FeesCovered folder to the you desk top. The FeesCovered folder is the folder that hold everything (the python script, csv files...)
+- Next you need to pull up your terminal.
+- Then type in the terminal "cd Desktop" (cd is the command for change directory)
+- Then type in "cd FeesCovered"
+- Lastly type in "python GuiFrame.py"
+- It should pull up a gui interface. (A gui interface is a interface for a user to interact with instead if interacting with the terminal.
+- Enter in either one of the two files that are in the folder (august_2020.csv, or july2020.csv).
+- You have to enter in the exact name of the file including the type of file
+    - for example look at august_2020.csv
+    - the files name is august_2020.csv
+    - the type of file is csv
+- After running the file open the result.txt file also found in the folder.
+- ForFeesCovered.py posted the results of running ForFeesCovered.py in result.txt and the final csv file is found in the Final Result Folder
+- Enter in one of the two csv files found in the folder and it will post the results in the gui and also in the results txt file.
